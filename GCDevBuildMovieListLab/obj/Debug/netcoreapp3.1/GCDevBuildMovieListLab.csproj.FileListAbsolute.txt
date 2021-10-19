@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\bin\Debug\netcoreapp3.1\GCDevBuildMovieListLab.exe
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\bin\Debug\netcoreapp3.1\GCDevBuildMovieListLab.deps.json
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\bin\Debug\netcoreapp3.1\GCDevBuildMovieListLab.runtimeconfig.json
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\bin\Debug\netcoreapp3.1\GCDevBuildMovieListLab.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\bin\Debug\netcoreapp3.1\GCDevBuildMovieListLab.dll
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\bin\Debug\netcoreapp3.1\GCDevBuildMovieListLab.pdb
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.dll
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.pdb
+C:\Users\CGreene1\source\repos\GCDevBuildMovieListLab\GCDevBuildMovieListLab\obj\Debug\netcoreapp3.1\GCDevBuildMovieListLab.genruntimeconfig.cache
